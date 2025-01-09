@@ -59,7 +59,12 @@ public class Test_Triangle {
 		String expected ="scalene";
 		assertEquals(expected, result);
 	}
-	
+	//@Test
+	// public void Path9() {
+	//	String result = tester.classifyTriangle(3,3,5);
+	//	String expected ="scalene";
+	//	assertEquals(expected, result);
+	//}
 
 
 }
